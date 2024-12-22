@@ -21,6 +21,7 @@
 [Coding is Changing Fast... AI Agents Explained](https://www.youtube.com/watch?v=IpktEXs4wFU)
 
 [Cole Medin]()
+
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q&t=1s)
 
 [Microsoft]()
