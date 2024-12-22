@@ -5,10 +5,12 @@
 ### AI Agents
 
 [codebasics]()
+
 [AI Agents Tutorial For Beginners](https://www.youtube.com/watch?v=EUey9L9sgzE)
 [AI Agents Tutorial For Beginners](https://www.youtube.com/watch?v=EUey9L9sgzE&t=4s)
 
 [David Ondrej]()
+
 ["I tested 400 AI Agents, these are the best" - Adam Silverman](https://www.youtube.com/watch?v=z4QsBsO3SS0&t=1098s)
 
 [Agency](https://www.agen.cy/)
