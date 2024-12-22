@@ -30,3 +30,15 @@
 https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357
 
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q)
+
+[ManuAGI - AutoGPT Tutorials]()
+
+[Top Trending Open Source GitHub Projects This Week! #111](https://www.youtube.com/watch?v=LIAxSf7pMlg)
+
+[Next.js SaaS Starter](https://github.com/leerob/next-saas-starter)
+[Reflex](https://github.com/reflex-dev/reflex)
+
+[Top Trending Open-Source GitHub Projects: AI, Web Automation & AI Agents! #113](https://www.youtube.com/watch?v=ynY1iy2ISxU)
+
+[Agents](https://github.com/livekit/agents)
+[Chatbox](https://github.com/Bin-Huang/chatbox)
