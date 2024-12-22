@@ -15,9 +15,13 @@
 
 [Agent Database by Agency AI](https://docs.google.com/spreadsheets/d/1VnOv_C0v_FgDeKuQBaGuMNsWgoWOpLkGbE_XS_2Vb3Q/edit?gid=0#gid=0)
 
-[Tech With Tim]()
+[Tech With Tim](https://www.youtube.com/@TechWithTim)
 
 [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://www.youtube.com/watch?v=QmUsG_3wHPg&t=22s)
+[Coding is Changing Fast... AI Agents Explained](https://www.youtube.com/watch?v=IpktEXs4wFU)
+
+[Cole Medin]()
+[We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q&t=1s)
 
 [Microsoft]()
 https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357
