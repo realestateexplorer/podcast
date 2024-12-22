@@ -15,4 +15,11 @@ https://www.youtube.com/watch?v=EUey9L9sgzE
 https://www.youtube.com/watch?v=QmUsG_3wHPg&t=22s
 
 
+[Tech With Tim]()
+
+[ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://www.youtube.com/watch?v=QmUsG_3wHPg&t=22s)
+
+
 https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357
+
+[We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q)
