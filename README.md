@@ -13,7 +13,7 @@
 
 [Agency](https://www.agen.cy/)
 
-[List of agents](https://docs.google.com/spreadsheets/d/1VnOv_C0v_FgDeKuQBaGuMNsWgoWOpLkGbE_XS_2Vb3Q/edit?gid=0#gid=0)
+[Agent Database by Agency AI](https://docs.google.com/spreadsheets/d/1VnOv_C0v_FgDeKuQBaGuMNsWgoWOpLkGbE_XS_2Vb3Q/edit?gid=0#gid=0)
 
 [Tech With Tim]()
 
