@@ -27,6 +27,9 @@
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q&t=1s)
 
 [Microsoft]()
+
+[Azure AI Foundry](https://ai.azure.com/)
+
 https://techcommunity.microsoft.com/blog/azure-ai-services-blog/introducing-azure-ai-agent-service/4298357
 
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q)
