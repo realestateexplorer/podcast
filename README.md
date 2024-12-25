@@ -51,3 +51,4 @@
 [Arco AI](https://www.thearco.ai/create)
 [Tempo Labs](https://www.tempolabs.ai/)
 
+[top trending open-source github projects](https://www.youtube.com/@ManuAGI/search?query=top%20trending%20open-source%20github%20projects)
