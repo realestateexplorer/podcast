@@ -45,3 +45,9 @@
 
 [Agents](https://github.com/livekit/agents)
 [Chatbox](https://github.com/Bin-Huang/chatbox)
+
+[Top AI Tools of the Week: Revolutionizing Music, Quantum, Smart Homes, and More!](https://www.youtube.com/watch?v=BWqOjv8bVDw&t=12s)
+
+[Arco AI](https://www.thearco.ai/create)
+[Tempo Labs](https://www.tempolabs.ai/)
+
