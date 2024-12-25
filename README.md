@@ -34,7 +34,7 @@
 
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q)
 
-[ManuAGI - AutoGPT Tutorials]()
+[ManuAGI - AutoGPT Tutorials](https://www.youtube.com/@ManuAGI)
 
 [Top Trending Open Source GitHub Projects This Week! #111](https://www.youtube.com/watch?v=LIAxSf7pMlg)
 
