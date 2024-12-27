@@ -56,3 +56,5 @@
 ### [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
 
 [Angular Projects Every Developer Wishes They Had in Their Portfolio](https://www.youtube.com/watch?v=S_wTb4pP_6Q)
+
+[Angular Routing Essentials: All You Need to Know in One Video!](https://www.youtube.com/watch?v=BUDQTd1DQAg)
