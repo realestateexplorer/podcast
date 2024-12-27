@@ -4,12 +4,12 @@
 
 ### AI Agents
 
-# [codebasics]()
+### [codebasics]()
 
 [AI Agents Tutorial For Beginners](https://www.youtube.com/watch?v=EUey9L9sgzE)
 [AI Agents Tutorial For Beginners](https://www.youtube.com/watch?v=EUey9L9sgzE&t=4s)
 
-# [David Ondrej]()
+### [David Ondrej]()
 
 ["I tested 400 AI Agents, these are the best" - Adam Silverman](https://www.youtube.com/watch?v=z4QsBsO3SS0&t=1098s)
 
@@ -17,16 +17,16 @@
 
 [Agent Database by Agency AI](https://docs.google.com/spreadsheets/d/1VnOv_C0v_FgDeKuQBaGuMNsWgoWOpLkGbE_XS_2Vb3Q/edit?gid=0#gid=0)
 
-# [Tech With Tim](https://www.youtube.com/@TechWithTim)
+### [Tech With Tim](https://www.youtube.com/@TechWithTim)
 
 [ADVANCED Python AI Agent Tutorial - Using RAG, Langflow & Multi-Agents](https://www.youtube.com/watch?v=QmUsG_3wHPg&t=22s)
 [Coding is Changing Fast... AI Agents Explained](https://www.youtube.com/watch?v=IpktEXs4wFU)
 
-# [Cole Medin]()
+### [Cole Medin]()
 
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q&t=1s)
 
-# [Microsoft]()
+### [Microsoft]()
 
 [Azure AI Foundry](https://ai.azure.com/)
 
@@ -34,7 +34,7 @@
 
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q)
 
-# [ManuAGI - AutoGPT Tutorials](https://www.youtube.com/@ManuAGI)
+### [ManuAGI - AutoGPT Tutorials](https://www.youtube.com/@ManuAGI)
 
 [Top Trending Open Source GitHub Projects This Week! #111](https://www.youtube.com/watch?v=LIAxSf7pMlg)
 
@@ -53,6 +53,6 @@
 
 [top trending open-source github projects](https://www.youtube.com/@ManuAGI/search?query=top%20trending%20open-source%20github%20projects)
 
-# [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
+### [Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
 
 [Angular Projects Every Developer Wishes They Had in Their Portfolio](https://www.youtube.com/watch?v=S_wTb4pP_6Q)
