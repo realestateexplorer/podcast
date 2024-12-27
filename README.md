@@ -52,3 +52,7 @@
 [Tempo Labs](https://www.tempolabs.ai/)
 
 [top trending open-source github projects](https://www.youtube.com/@ManuAGI/search?query=top%20trending%20open-source%20github%20projects)
+
+[Monsterlessons Academy](https://www.youtube.com/@MonsterlessonsAcademy)
+
+[Angular Projects Every Developer Wishes They Had in Their Portfolio](https://www.youtube.com/watch?v=S_wTb4pP_6Q)
