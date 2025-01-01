@@ -63,6 +63,8 @@
 
 ### React 19
 
+[shadcn/ui](https://ui.shadcn.com/)
+
 [WebStylePress]()
 
 [How to Setup React 19 with Vite](https://www.youtube.com/watch?v=jrPduL9CGsg)
