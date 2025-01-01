@@ -58,3 +58,21 @@
 [Angular Projects Every Developer Wishes They Had in Their Portfolio](https://www.youtube.com/watch?v=S_wTb4pP_6Q)
 
 [Angular Routing Essentials: All You Need to Know in One Video!](https://www.youtube.com/watch?v=BUDQTd1DQAg)
+
+[Shadcn UI React Tutorial: Build Stunning UIs in Minutes!](https://www.youtube.com/watch?v=Yz3Rfn_UJOo)
+
+### React 19
+
+[WebStylePress]()
+
+[How to Setup React 19 with Vite](https://www.youtube.com/watch?v=jrPduL9CGsg)
+
+[Dipesh Malvia]()
+
+[How To Build UI Component Library in React | Learn Shadcn/ui in 20 Minutes](https://www.youtube.com/watch?v=H6GBwdGiOLM)
+
+[Jack Herrington]()
+
+[ShadCN’s Revolutionary New CLI](https://www.youtube.com/watch?v=LEFRcCf4ehc&t=25s)
+
+
