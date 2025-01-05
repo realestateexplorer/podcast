@@ -90,3 +90,5 @@
 [Long Polling in Angular 4](https://stackoverflow.com/questions/46728922/long-polling-in-angular-4)
 
 [Data Polling on the Frontend for Long-Running HTTP Requests: Angular Example](https://medium.com/@tejeswar_79802/data-polling-on-the-frontend-for-long-running-http-requests-angular-example-c75acd2ca204)
+
+[Implement Polling Using RxJS in Your Angular Application](https://betterprogramming.pub/implement-polling-using-rxjs-in-your-angular-application-278129d5a9a9)
