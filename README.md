@@ -77,4 +77,10 @@
 
 [ShadCN’s Revolutionary New CLI](https://www.youtube.com/watch?v=LEFRcCf4ehc&t=25s)
 
+### Server Sent Events
 
+[Implementing Server-Sent Events in Angular](https://medium.com/@andrewkoliaka/implementing-server-sent-events-in-angular-a5e40617cb78)
+
+[Long Polling in .NET](https://medium.com/@kova98/long-polling-in-net-08caa91000cd)
+
+[Efficient Long Polling Techniques in .NET](https://dev.to/bytehide/efficient-long-polling-techniques-in-net-19ef)
