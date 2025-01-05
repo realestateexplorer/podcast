@@ -84,3 +84,5 @@
 [Long Polling in .NET](https://medium.com/@kova98/long-polling-in-net-08caa91000cd)
 
 [Efficient Long Polling Techniques in .NET](https://dev.to/bytehide/efficient-long-polling-techniques-in-net-19ef)
+
+[Implementing Long Polling in .NET for Real-Time Communication](https://dev.to/dotnetfullstackdev/implementing-long-polling-in-net-for-real-time-communication-114b)
