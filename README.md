@@ -86,3 +86,7 @@
 [Efficient Long Polling Techniques in .NET](https://dev.to/bytehide/efficient-long-polling-techniques-in-net-19ef)
 
 [Implementing Long Polling in .NET for Real-Time Communication](https://dev.to/dotnetfullstackdev/implementing-long-polling-in-net-for-real-time-communication-114b)
+
+[Long Polling in Angular 4](https://stackoverflow.com/questions/46728922/long-polling-in-angular-4)
+
+[Data Polling on the Frontend for Long-Running HTTP Requests: Angular Example](https://medium.com/@tejeswar_79802/data-polling-on-the-frontend-for-long-running-http-requests-angular-example-c75acd2ca204)
