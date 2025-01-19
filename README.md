@@ -79,6 +79,10 @@
 
 [ShadCN’s Revolutionary New CLI](https://www.youtube.com/watch?v=LEFRcCf4ehc&t=25s)
 
+[Using shadcn/ui with NextJs 15 and React 19](https://www.youtube.com/watch?v=kol1ogbjxqo)
+
+[Create React 19 App](https://www.studytrigger.com/article/create-react-19-app/)
+
 ### Server Sent Events
 
 [Implementing Server-Sent Events in Angular](https://medium.com/@andrewkoliaka/implementing-server-sent-events-in-angular-a5e40617cb78)
