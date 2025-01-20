@@ -93,6 +93,8 @@
 
 [How To Set Up Next.js 15 For Production In 2025](https://www.youtube.com/watch?v=bNSqh5rVqFE)
 
+[clerk.com/](https://clerk.com/)
+
 ### Server Sent Events
 
 [Implementing Server-Sent Events in Angular](https://medium.com/@andrewkoliaka/implementing-server-sent-events-in-angular-a5e40617cb78)
