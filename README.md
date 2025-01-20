@@ -34,6 +34,8 @@
 
 [We've Been Building AI Agents WRONG Until Now](https://www.youtube.com/watch?v=pC17ge_2n0Q&t=1s)
 
+[Guide to Building AI Agents](https://www.youtube.com/playlist?list=PLyrg3m7Ei-MrSXWv90oXXbuSsbdOP9j2n)
+
 ### [Microsoft]()
 
 [Azure AI Foundry](https://ai.azure.com/)
