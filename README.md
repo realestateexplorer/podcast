@@ -1,5 +1,11 @@
-### Hosting
+### Hosting Nextjs
+
+[vercel](https://vercel.com/)
+
 [netlify](https://www.netlify.com/)
+
+[cloudflare](https://www.cloudflare.com/)
+
 ### Angular Material
 
 [Angular Material 3 Guide | This Is Future of Design System](https://www.youtube.com/watch?v=MGnLrim_WnM&t=1026s)
@@ -82,6 +88,10 @@
 [Using shadcn/ui with NextJs 15 and React 19](https://www.youtube.com/watch?v=kol1ogbjxqo)
 
 [Create React 19 App](https://www.studytrigger.com/article/create-react-19-app/)
+
+[Learn Next.js 15 in 1 hour - Beginner Tutorial](https://www.youtube.com/watch?v=_EgI9WH8q1A)
+
+[How To Set Up Next.js 15 For Production In 2025](https://www.youtube.com/watch?v=bNSqh5rVqFE)
 
 ### Server Sent Events
 
