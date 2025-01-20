@@ -36,6 +36,8 @@
 
 [Guide to Building AI Agents](https://www.youtube.com/playlist?list=PLyrg3m7Ei-MrSXWv90oXXbuSsbdOP9j2n)
 
+[Live Agent Studio](https://studio.ottomator.ai/)
+
 ### [Microsoft]()
 
 [Azure AI Foundry](https://ai.azure.com/)
