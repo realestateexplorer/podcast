@@ -103,6 +103,8 @@
 
 [React for Angular Developers](https://www.youtube.com/watch?v=ZDX0ppVSD3U)
 
+[React for Angular Developers](https://www.youtube.com/watch?v=QIVTmKT84kI)
+
 ### Server Sent Events
 
 [Implementing Server-Sent Events in Angular](https://medium.com/@andrewkoliaka/implementing-server-sent-events-in-angular-a5e40617cb78)
