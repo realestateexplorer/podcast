@@ -123,6 +123,10 @@
 
 [Implementing Advanced Long Polling in .NET 6](https://medium.com/@iamsalmankarim/implementing-advanced-long-polling-in-net-6-3d216c442747)
 
+### Conda
+
+[Getting started with conda](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+
 ### AI Agents
 
 [Dave Ebbelaar](https://www.youtube.com/@daveebbelaar)
