@@ -122,3 +122,9 @@
 [Implement Polling Using RxJS in Your Angular Application](https://betterprogramming.pub/implement-polling-using-rxjs-in-your-angular-application-278129d5a9a9)
 
 [Implementing Advanced Long Polling in .NET 6](https://medium.com/@iamsalmankarim/implementing-advanced-long-polling-in-net-6-3d216c442747)
+
+### AI Agents
+
+[Dave Ebbelaar](https://www.youtube.com/@daveebbelaar)
+
+[How to Build Effective AI Agents in Pure Python - Beginner Course](https://www.youtube.com/watch?v=bZzyPscbtI8)
